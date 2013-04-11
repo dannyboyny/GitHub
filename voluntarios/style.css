@@ -1,0 +1,63 @@
+form label {
+  display: inline-block;
+  width: 225px;
+  font-weight: bold;
+}
+
+ body
+{
+background-color: orange;
+}
+
+td.label {
+  font-weight: bold;
+  background-color:;
+}
+
+table {
+  font-weight:;
+  background-color:white;
+}
+
+#header
+{
+	background-color: ;
+	height: 40px;
+}
+
+#titulo
+{
+	width: 550px;
+	text-align: right;
+	vertical-align: text-top;
+}
+
+#login
+{
+	text-align: right;
+}
+
+
+#menucontainer
+{
+	background-color: #ccc;
+}
+
+.menuitem
+{
+	background-color: yellow;
+	padding: 5px;
+	text-decoration:none;
+	font-weight:bold;
+	text-align:center;
+	color:yellow;
+	width: 135px;
+	margin-top:1px;
+	margin-right:1px;
+	float:left;
+}
+
+.error {
+  font-weight: bold;
+  color: #FF0000;
+}
